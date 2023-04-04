@@ -31,7 +31,7 @@ to clone follow this steps
 
 Clone the repo by using the following:
 
-   https://github.com/kabiruH/superheroes
+   https://github.com/i-muiri/super-heroes
 
 Open it in Visual Studio Code
 
@@ -54,5 +54,3 @@ Start the server
 # Author
 Ian Irungu
 
-License
-MIT
